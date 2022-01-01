@@ -17,7 +17,7 @@
   },
   "dependencies": {
     "@nuxt/content": "^1.14.0",
-    "core-js": "^3.20.0",
+    "core-js": "^3.20.1",
     "nuxt": "^2.15.7"
   },
   "devDependencies": {
@@ -27,13 +27,13 @@
     "@vue/test-utils": "^1.2.1",
     "babel-core": "7.0.0-bridge.0",
     "babel-jest": "^27.4.5",
-    "eslint": "^8.4.1",
+    "eslint": "^8.5.0",
     "eslint-config-prettier": "^8.3.0",
     "eslint-plugin-nuxt": "^3.1.0",
     "eslint-plugin-vue": "^8.2.0",
     "husky": "^7.0.4",
     "jest": "^27.4.5",
-    "lint-staged": "^12.1.2",
+    "lint-staged": "^12.1.4",
     "prettier": "^2.3.2",
     "vue-jest": "^3.0.4"
   }
