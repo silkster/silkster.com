@@ -7,6 +7,8 @@
     "preview": "nuxt preview"
   },
   "devDependencies": {
-    "nuxt": "3.0.0-rc.4"
+    "@nuxtjs/svg": "^0.4.0",
+    "nuxt": "3.0.0-rc.4",
+    "vite-svg-loader": "^3.4.0"
   }
 }
